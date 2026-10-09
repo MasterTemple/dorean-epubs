@@ -1,0 +1,13 @@
+# Made by bx new from the-dorean-principle.epub
+[package]
+id = "the-dorean-principle"
+name = "The Dorean Principle"
+abbreviation = "TDP"
+authors = ["Conley Owens"]
+version = "1.0.2"
+kind = "book"
+language = "en-US"
+license = "CC0-1.0"
+
+[formats]
+epub = { path = "epub/" }

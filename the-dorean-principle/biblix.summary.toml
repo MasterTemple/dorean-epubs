@@ -1,0 +1,15 @@
+# Written by `bx release`: what this version holds. `bx verify` checks it.
+summary = 1
+id = "the-dorean-principle"
+version = "1.0.2"
+text-checksum = "sha256:f3da9798a6ccd2bc89cb917481c981f2fa431479a1bf4067863aee23a1b35423"
+files-checksum = "sha256:35790f73cd44a6f429b5bc59d27a575bd4d53fa1bf65488df12d499716c6b468"
+verses = 0
+references = 383
+
+[sizes]
+epub = 2613989
+
+[books]
+
+[contents]

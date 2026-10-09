@@ -1,0 +1,15 @@
+# Written by `bx release`: what this version holds. `bx verify` checks it.
+summary = 1
+id = "abolish-the-jesus-trade"
+version = "1.0.2"
+text-checksum = "sha256:6b295769946dbd117b05e4a6e31c2ce447db60c1eaa0d8c4351a5aecc2a1ca92"
+files-checksum = "sha256:205682e53e9871456d1023ffe99dacb44fc4558bba6637758231034382ce49d8"
+verses = 0
+references = 937
+
+[sizes]
+epub = 3549464
+
+[books]
+
+[contents]

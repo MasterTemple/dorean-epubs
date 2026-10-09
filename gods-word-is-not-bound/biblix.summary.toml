@@ -1,0 +1,15 @@
+# Written by `bx release`: what this version holds. `bx verify` checks it.
+summary = 1
+id = "gods-word-is-not-bound"
+version = "1.0.2"
+text-checksum = "sha256:a894ed0dba41b074612060a26b077378ee57d88451b89bc2b45f69b01798e738"
+files-checksum = "sha256:29eabeb16e8a817fafa1219f2fa59f037c2f3b42acb1ab870a8fd1afdbd9ede4"
+verses = 0
+references = 518
+
+[sizes]
+epub = 4243820
+
+[books]
+
+[contents]

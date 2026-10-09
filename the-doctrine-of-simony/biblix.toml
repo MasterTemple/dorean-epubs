@@ -1,0 +1,14 @@
+# Made by bx new from the-doctrine-of-simony.epub
+[package]
+id = "the-doctrine-of-simony"
+name = "The Doctrine of Simony"
+abbreviation = "TDOS"
+authors = ["Conley Owens"]
+description = "A Theological Retrieval and Appraisal"
+version = "1.0.2"
+kind = "book"
+language = "en-US"
+license = "CC0-1.0"
+
+[formats]
+epub = { path = "epub/" }

@@ -1,0 +1,15 @@
+# Written by `bx release`: what this version holds. `bx verify` checks it.
+summary = 1
+id = "the-doctrine-of-simony"
+version = "1.0.2"
+text-checksum = "sha256:946878f3f215f392711e747f6618284d751c367a058a92b2268e296bc0d6cd31"
+files-checksum = "sha256:7f3238e1860a39b7b32f3e6ea572e70192c275a66b6b6ea0b7aa829dab290501"
+verses = 0
+references = 360
+
+[sizes]
+epub = 1841293
+
+[books]
+
+[contents]

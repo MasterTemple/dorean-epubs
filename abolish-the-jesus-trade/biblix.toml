@@ -1,0 +1,13 @@
+# Made by bx new from Abolish-the-Jesus-Trade.epub
+[package]
+id = "abolish-the-jesus-trade"
+name = "Abolish the Jesus Trade"
+abbreviation = "ATJT"
+authors = ["Andrew Case", "Conley Owens", "Jon Here"]
+version = "1.0.2"
+kind = "book"
+language = "en"
+license = "CC0-1.0"
+
+[formats]
+epub = { path = "epub/" }
