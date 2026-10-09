@@ -1,0 +1,16 @@
+# The Dorean Collection: its packages are its dependencies, the books in this repository's folders
+[package]
+id = "dorean-collection"
+name = "The Dorean Collection"
+abbreviation = "DOREAN"
+description = "Books on the free gospel and the free Word"
+version = "1.1.0"
+kind = "collection"
+language = "en"
+license = "CC0-1.0"
+
+[dependencies]
+abolish-the-jesus-trade = { registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml", version = "1.0.2" }
+gods-word-is-not-bound = { registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml", version = "1.0.2" }
+the-doctrine-of-simony = { registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml", version = "1.0.2" }
+the-dorean-principle = { registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml", version = "1.0.2" }

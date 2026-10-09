@@ -1,0 +1,40 @@
+# Written by bx: the exact text this uses. Commit it with biblix.toml.
+version = 1
+dependencies = [
+    "abolish-the-jesus-trade 1.0.2+a4d3d3adb",
+    "gods-word-is-not-bound 1.0.2+ae7629f59",
+    "the-doctrine-of-simony 1.0.2+a998fa3ab",
+    "the-dorean-principle 1.0.2+a12c48490",
+]
+
+[[package]]
+id = "abolish-the-jesus-trade"
+version = "1.0.2"
+registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml"
+archive = "https://github.com/MasterTemple/dorean-epubs/releases/download/abolish-the-jesus-trade-v1.0.2/abolish-the-jesus-trade-1.0.2.tar.gz"
+sha256 = "sha256:4d3d3adb63816f476473a5e96c4d14ee2740628b0060f0e206047443258f23c0"
+checksum = "sha256:262e3cda52ab8f72b2468c0fe07bc806b7723ed54474babecbe7718187f5f99a"
+
+[[package]]
+id = "gods-word-is-not-bound"
+version = "1.0.2"
+registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml"
+archive = "https://github.com/MasterTemple/dorean-epubs/releases/download/gods-word-is-not-bound-v1.0.2/gods-word-is-not-bound-1.0.2.tar.gz"
+sha256 = "sha256:e7629f595f04b066f6c74d892c88a5b21ae3a2c04e67fc218bb0c7f5fc52a70b"
+checksum = "sha256:ceb1f92cfafa6b5441dcf4c11b97e3daa0af8990a83d1ed0633a5e15330f7205"
+
+[[package]]
+id = "the-doctrine-of-simony"
+version = "1.0.2"
+registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml"
+archive = "https://github.com/MasterTemple/dorean-epubs/releases/download/the-doctrine-of-simony-v1.0.2/the-doctrine-of-simony-1.0.2.tar.gz"
+sha256 = "sha256:998fa3abaf192505bf2637e40bb232e222e36cfe1a757d16775e44f52904756f"
+checksum = "sha256:4924746fcaea08f8fd2848fa9c0a7601ec2d705522df5194e038476e64805c49"
+
+[[package]]
+id = "the-dorean-principle"
+version = "1.0.2"
+registry = "https://github.com/MasterTemple/dorean-epubs/releases/download/index/catalog.toml"
+archive = "https://github.com/MasterTemple/dorean-epubs/releases/download/the-dorean-principle-v1.0.2/the-dorean-principle-1.0.2.tar.gz"
+sha256 = "sha256:12c48490487aebadeb1160ecfd883e857a292adf9d8623212a6fe1a711ad48b5"
+checksum = "sha256:8e639b271963c1452ed381256c8d9297ef7d6d1e8163a23d2e43aa459127b38d"

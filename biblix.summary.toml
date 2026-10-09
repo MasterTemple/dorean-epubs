@@ -1,0 +1,13 @@
+# Written by `bx release`: what this version holds. `bx verify` checks it.
+summary = 1
+id = "dorean-collection"
+version = "1.1.0"
+text-checksum = "sha256:6cbe40ddaae50be56ac73ddc4627192e10cbbcc982cb2ef48911b8812e2d4c78"
+files-checksum = "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+verses = 0
+
+[sizes]
+
+[books]
+
+[contents]
